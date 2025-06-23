@@ -54,13 +54,16 @@ If this project helped you, consider supporting me on [Buy Me a Coffee](https://
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is source-available but **not licensed for commercial use** without permission.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
-To use this software in any commercial project, you must obtain written permission from the author.
+That means:
+- You are free to use, modify, and distribute this software.
+- However, **if you use it in any project (even a web app), your project must also be open source under the same license (AGPL-3.0)**.
+- You cannot include this code in a closed-source or proprietary software.
 
-Contact: [rasnet0001@gmail.com]
+📄 Full license text: [LICENSE](./LICENSE)
 
 ---
 
